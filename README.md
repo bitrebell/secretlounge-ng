@@ -111,11 +111,6 @@ All of these assessments presume a sufficient user population in the bot so that
 Telegram bots are able to create new polls and forward messages (including authorship), but they can't forward the poll itself as with other message types.
 Working around this is possible with some disadvantages, but has not been implemented yet.
 
-6. **Is this code maintained?**
-
-This codebase is in active use [over here](https://t.me/s/secretloungeproject).
-Updates are made either if there's something broken or when the author feels like it.
-
 ## Notable forks
 
 * [CatLounge](https://github.com/CatLounge/catlounge-ng-meow) - has numerous new features including specifying cooldown time
