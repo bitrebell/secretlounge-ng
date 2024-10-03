@@ -1,7 +1,7 @@
 secretlounge-ng
 ---------------
 
-Rewrite of [secretlounge](https://web.archive.org/web/20200920053736/https://github.com/6697/secretlounge), a bot to make an anonymous group chat on Telegram.
+Rewrite of [secretlounge](https://github.com/bitrebell/secretlounge-ng), a bot to make an anonymous group chat on Telegram.
 
 The bot accepts messages, pictures, videos, etc. from any user and relays it to all other active users without revealing the author.
 
